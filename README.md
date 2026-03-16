@@ -41,10 +41,10 @@ Currently pursuing a <b>6-month internship</b> while developing projects involvi
 > Add your real repo links here (recommended). If you tell me the repo names/URLs, I’ll wire them in cleanly.
 
 - **Resume Analysis Engine** — _NLP + Backend_  
-  Repo: `https://github.com/DarkPheonix444/resumeproject` 
+  Repo: `ADD_LINK_HERE` • Demo: `ADD_LINK_HERE`
 
 - **2D → 3D Blueprint Reconstruction System** — _Computer Vision + Three.js_  
-  Repo: `https://github.com/DarkPheonix444/2d-to-3d` 
+  Repo: `ADD_LINK_HERE` • Demo: `ADD_LINK_HERE`
 
 ---
 
