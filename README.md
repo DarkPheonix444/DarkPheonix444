@@ -38,13 +38,12 @@ Currently pursuing a <b>6-month internship</b> while developing projects involvi
 ---
 
 ## Featured Projects
-> Add your real repo links here (recommended). If you tell me the repo names/URLs, I’ll wire them in cleanly.
 
 - **Resume Analysis Engine** — _NLP + Backend_  
-  Repo: `ADD_LINK_HERE` • Demo: `ADD_LINK_HERE`
+  Repo: [@DarkPheonix444/resumeproject](https://github.com/DarkPheonix444/resumeproject) • Demo: `ADD_LINK_HERE`
 
 - **2D → 3D Blueprint Reconstruction System** — _Computer Vision + Three.js_  
-  Repo: `ADD_LINK_HERE` • Demo: `ADD_LINK_HERE`
+  Repo: [@DarkPheonix444/2d-to-3d](https://github.com/DarkPheonix444/2d-to-3d) • Demo: `ADD_LINK_HERE`
 
 ---
 
@@ -118,26 +117,22 @@ A computer vision pipeline that converts architectural floor plans into structur
 
 ---
 
-## GitHub Stats
-<div align="center">
-
-<!-- Overall stats -->
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DarkPheonix444&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<!-- Streak -->
-<img height="170" src="https://streak-stats.demolab.com?user=DarkPheonix444&theme=tokyonight&hide_border=true" />
-
-<!-- Top languages -->
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkPheonix444&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## Connect
-- LinkedIn: https://linkedin.com/in/Doshi-Jainam
-- Email: [jainamdoshi462@gmail.com](mailto:jainamdoshi462@gmail.com)
 
+<!-- Connection buttons (same style as top) -->
+<p>
+  <a href="https://linkedin.com/in/Doshi-Jainam" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:jainamdoshi462@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/DarkPheonix444" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<!-- Bottom animation (Capsule Render waving footer) -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=22c55e&height=120&section=footer"/>
 </div>
