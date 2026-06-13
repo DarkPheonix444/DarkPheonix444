@@ -40,10 +40,10 @@ Currently pursuing a <b>6-month internship</b> while developing projects involvi
 ## Featured Projects
 
 - **Resume Analysis Engine** — _NLP + Backend_  
-  Repo: [@DarkPheonix444/resumeproject](https://github.com/DarkPheonix444/resumeproject) • Demo: `ADD_LINK_HERE`
+  Repo: [@DarkPheonix444/resumeproject](https://github.com/DarkPheonix444/resumeproject) • Demo: `https://resumeforge-engine.netlify.app/`
 
 - **2D → 3D Blueprint Reconstruction System** — _Computer Vision + Three.js_  
-  Repo: [@DarkPheonix444/2d-to-3d](https://github.com/DarkPheonix444/2d-to-3d) • Demo: `ADD_LINK_HERE`
+  Repo: [@DarkPheonix444/2d-to-3d](https://github.com/DarkPheonix444/2d-to-3d) 
 
 ---
 
